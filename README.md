@@ -4,13 +4,11 @@
 
 ![image](https://github.com/user-attachments/assets/acd4b577-305a-4c68-a159-821b5772d7b9)
 
-![image](https://github.com/user-attachments/assets/9f8bd898-1cc8-4047-bfdc-535f3b68a78d)
-
-
-
 📌 SIMULACION DEL PERFIL DEL MIEMBRO - OBJETOS
 
 ![image](https://github.com/user-attachments/assets/9a148a5b-e6c5-47a5-9a51-206bbc2f5dfb)
+
+![image](https://github.com/user-attachments/assets/9f8bd898-1cc8-4047-bfdc-535f3b68a78d)
 
 - EJECUCION
 
